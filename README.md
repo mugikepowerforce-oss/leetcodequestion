@@ -35,6 +35,7 @@ This are leetcode questions
 | [0003-longest-substring-without-repeating-characters](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0014-longest-common-prefix/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0125-valid-palindrome](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0125-valid-palindrome/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,6 +48,7 @@ This are leetcode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0125-valid-palindrome](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0125-valid-palindrome/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
