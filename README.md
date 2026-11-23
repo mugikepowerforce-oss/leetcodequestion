@@ -12,6 +12,7 @@ This are leetcode questions
 | [0066-plus-one](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0217-contains-duplicate/) | Easy |
+| [0303-range-sum-query-immutable](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0303-range-sum-query-immutable/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,8 +80,13 @@ This are leetcode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0155-min-stack/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0303-range-sum-query-immutable/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0217-contains-duplicate/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
