@@ -10,6 +10,7 @@ This are leetcode questions
 | [0004-median-of-two-sorted-arrays](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0014-longest-common-prefix/) | Easy |
 | [0066-plus-one](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0066-plus-one/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,4 +63,8 @@ This are leetcode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
