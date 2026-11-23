@@ -83,6 +83,7 @@ This are leetcode questions
 | ------- | ------- |
 | [0155-min-stack](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0155-min-stack/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0707-design-linked-list](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0707-design-linked-list/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,4 +92,8 @@ This are leetcode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0303-range-sum-query-immutable/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0707-design-linked-list](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0707-design-linked-list/) | Medium |
 <!---LeetCode Topics End-->
