@@ -39,6 +39,7 @@ This are leetcode questions
 | [0014-longest-common-prefix](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0014-longest-common-prefix/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0125-valid-palindrome/) | Easy |
+| [0344-reverse-string](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0344-reverse-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +53,7 @@ This are leetcode questions
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0125-valid-palindrome/) | Easy |
+| [0344-reverse-string](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0344-reverse-string/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
