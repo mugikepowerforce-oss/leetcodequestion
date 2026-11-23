@@ -69,4 +69,12 @@ This are leetcode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0155-min-stack/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
