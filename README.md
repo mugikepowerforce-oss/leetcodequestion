@@ -9,6 +9,7 @@ This are leetcode questions
 | [0001-two-sum](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0014-longest-common-prefix/) | Easy |
+| [0066-plus-one](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0066-plus-one/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -18,6 +19,7 @@ This are leetcode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0009-palindrome-number/) | Easy |
+| [0066-plus-one](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0066-plus-one/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
