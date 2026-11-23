@@ -11,11 +11,13 @@ This are leetcode questions
 | [0014-longest-common-prefix](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0014-longest-common-prefix/) | Easy |
 | [0066-plus-one](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0217-contains-duplicate](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0217-contains-duplicate/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0217-contains-duplicate](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0217-contains-duplicate/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,4 +79,8 @@ This are leetcode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0155-min-stack/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
