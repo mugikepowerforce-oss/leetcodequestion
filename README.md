@@ -85,6 +85,7 @@ This are leetcode questions
 | [0155-min-stack](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0155-min-stack/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0707-design-linked-list](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0707-design-linked-list/) | Medium |
+| [0933-number-of-recent-calls](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,4 +98,12 @@ This are leetcode questions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0707-design-linked-list](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0707-design-linked-list/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0933-number-of-recent-calls/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/mugikepowerforce-oss/leetcodequestion/tree/main/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->
